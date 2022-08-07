@@ -3,6 +3,8 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+    background-color: whitesmoke;
 }
 ul {
    list-style-type: none;
@@ -67,9 +69,12 @@ img{
 }
 .content{
     margin: 20px;
+    /* background-color: steelblue; */
+
 }
 .article{
     display: flex;
+    /* background-color: steelblue; */
 }
 span:first-child {
     font-weight: bold;
